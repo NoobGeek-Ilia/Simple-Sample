@@ -4,7 +4,7 @@
 
 ## Установка
 
-0. Скачать установочные файлы: перейти по ссылке https://github.com/NoobGeek-Ilya/Simple-Sample/edit/main/README.md, нажать на зеленую кнопку <>Code ---> Download ZIP
+0. Скачать установочные файлы: перейти по ссылке https://github.com/NoobGeek-Ilya/Simple-Sample, нажать на зеленую кнопку <>Code ---> Download ZIP
 1. Запустить файл установки "Setup".
 2. Следовать дальнейшим инструкциям.
 
